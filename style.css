@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif; /* Fallback font */
+}
+
+.apple-device {
+    /* Replace the URL with the correct path to your San Francisco font file */
+    font-family: "San Francisco", Arial, sans-serif;
+}
+
+.other-device {
+    /* Load the "Inter" font from Google Fonts */
+    font-family: "Inter", Arial, sans-serif;
+}
